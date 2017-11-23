@@ -1,6 +1,4 @@
-/**
- * Created by yatessss on 16/12/9.
- */
+
 // const env = {
 //   THEMES: 'http:/.zhihu.com/api/4/themes',
 //   LATEST_NEWS: 'http:/.zhihu.com/api/4/news/latest',
